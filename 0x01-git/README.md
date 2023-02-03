@@ -1,1 +1,1 @@
-main topic
+These exercises helped me get through git
